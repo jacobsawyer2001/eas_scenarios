@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'VCR-EAS';
-    src:url('VCR-EAS.ttf.woff') format('woff'),
-        url('VCR-EAS.ttf.svg#VCR-EAS') format('svg'),
-        url('VCR-EAS.ttf.eot'),
-        url('VCR-EAS.ttf.eot?#iefix') format('embedded-opentype'); 
-    font-weight: normal;
-    font-style: normal;
-}
-
 h1 {
-  font-family: 'VCR-EAS';
+  font-family: 'VCR EAS';
 }
